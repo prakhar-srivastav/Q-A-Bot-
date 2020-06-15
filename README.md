@@ -1,10 +1,8 @@
 # Q-A-Bot-
 
+# Deployment
 
-
-
-
-
+![Capture](https://user-images.githubusercontent.com/28844605/84707393-3c423980-af7c-11ea-93e5-c41b622288d4.JPG)
 
 
 
